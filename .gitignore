@@ -8,6 +8,7 @@ cmd/tmp
 terraform.tfstate
 terraform.tfstate.backup
 init.tf
+*.hcl
+*.tf
 runIt.sh
 provider.tf
-.terraform.lock.hcl
